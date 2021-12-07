@@ -6,4 +6,5 @@
 安装pyqt5,matplotlib,numpy,opencv-python
 
 本代码已在github开源
+
 项目链接：https://github.com/tian1wang/motion-tracking.git
